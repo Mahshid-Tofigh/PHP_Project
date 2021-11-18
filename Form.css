@@ -1,0 +1,50 @@
+form {
+    width: 500px;
+}
+
+.design {
+    width: 500px;
+    height: auto;
+   
+}
+
+textarea {
+    resize: vertical;
+    max-height: 300px;
+    float: left;
+    
+   
+}
+
+input:focus, textarea:focus {
+    box-shadow: 0 0 4px rgba(255, 0, 0, 0.5);
+    border: 1px solid #ddd;
+}
+
+
+
+input[type="submit"] {
+    width: 25%;
+    height: 3em;
+    margin-top: 3em;
+    display: block;
+    
+}
+label {
+    width: 240px;
+    display: inline-block;
+
+}
+input [type="radio"] {
+    margin: right 20px;
+
+}
+.marg {
+   text-align: left;
+}
+
+
+
+
+
+
